@@ -1,16 +1,19 @@
-## Hi there 👋
+# Telukala Snuhith Reddy
 
-<!--
-**tsnuhithreddy/tsnuhithreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL · Python · Power BI · Excel
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Advanced)
+- Power BI (DAX, Power Query)
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Dashboard Design
+
+
+📧 Email:
+snuhithreddy2005@gmail.com
