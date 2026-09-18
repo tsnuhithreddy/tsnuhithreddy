@@ -1,9 +1,9 @@
 ### 📊 Data Analyst (in training) | SQL • Python • Power BI • Excel
 
-🎓 B.Tech, 4th year — actively building real-world data analysis projects
-🔍 Comfortable turning messy data into SQL queries, Python analysis, and Power BI dashboards
-🎯 Looking for Data Analyst internships / entry-level roles
-📫 Reach me on LinkedIn or email below — always open to a chat about data, internships, or feedback on my projects
+- 🎓 B.Tech, 4th year — actively building real-world data analysis projects
+- 🔍 Comfortable turning messy data into SQL queries, Python analysis, and Power BI dashboards
+- 🎯 Looking for Data Analyst internships / entry-level roles
+- 📫 Reach me on LinkedIn or email below — always open to a chat about data, internships, or feedback on my projects
 
 ---
 
@@ -33,4 +33,4 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsnuhithreddy&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsnuhithreddy&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
