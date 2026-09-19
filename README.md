@@ -24,6 +24,25 @@
 
 ---
 
+---
+
+### 💻 Software Engineering
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+- **Full-stack architecture**: React (Vite) frontend + Node.js/Express REST API, with a layered backend (routes → controllers → services → models → validators)
+- **Auth & security**: JWT-based authentication, bcrypt password hashing, and custom role-based access control middleware (per-route role checks, live session validation on every request)
+- **Testing**: 58 automated tests — Jest + Supertest on the backend, Vitest + React Testing Library on the frontend — run against a real seeded MySQL database, not mocks
+- **DevOps**: Dockerized multi-service setup (MySQL + Node API + Nginx-served React build) with a GitHub Actions CI pipeline running the full test suite and a production build check on every push
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snuhith-reddy-66467a300/)
